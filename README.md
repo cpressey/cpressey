@@ -2,11 +2,10 @@ Most of the things I make, I make under the auspices of [Cat's Eye Technologies]
 so if you're looking for things I've made, you probably want to look at
 **[@catseye](https://github.com/orgs/catseye/)** instead.
 
-- - - -
-
 Interests: **programming languages**, **[esolangs](http://esolangs.org/)**,
-**[generative art](https://github.com/topics/gewgaw)**, **techno-aesthetics**,
-**video game design**, **algebraic logic** and **formal methods**.
+**techno-aesthetics**, **[generative art](https://github.com/topics/gewgaw)**,
+**video game design and implementation**, **retrocomputing**,
+**algebraic logic** and **formal methods**.
 
 <!--
 **cpressey/cpressey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
