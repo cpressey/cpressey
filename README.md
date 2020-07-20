@@ -7,13 +7,12 @@ so if you're looking for things I've made, you probably want to look at
 Interests: **programming languages** ([esolangs](http://esolangs.org/), effect systems, flow typing, ...),
 **computation** (computability/complexity theory, automata/formal languages, retrocomputing...),
 **aesthetics** (composition, art history, [generative art](https://github.com/topics/gewgaw), [NaNoGenMo](https://github.com/catseye/NaNoGenMo-Entries-2019/)...),
-**video games** (as reactive systems, as techno-aesthetic objects...),
+**video games** ([as reactive systems](https://github.com/catseye/Nested-Modal-Transducers), as techno-aesthetic objects...),
 **logic** (proof systems, theorem proving, ...),
 **algebraic properties** of all of the above
 
-Languages I program in a lot: **Python**, **Haskell**, **JavaScript**  
-Languages I sometimes program in: Lua, Scheme, ANSI C  
-Languages I don't plan to program in: Clojure, Rust  
+Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution (10 year anniversary!) and fixing its Turing-completeness proof.
+Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).
 
 <!--
 **cpressey/cpressey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
