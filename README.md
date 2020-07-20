@@ -11,8 +11,8 @@ Interests: **programming languages** ([esolangs](http://esolangs.org/), effect s
 **logic** (proof systems, theorem proving, ...),
 **algebraic properties** of all of the above
 
-Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution (10 year anniversary!) and fixing its Turing-completeness proof.
-Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).
+Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution (10 year anniversary!) and fixing its Turing-completeness proof.  
+Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).  
 
 <!--
 **cpressey/cpressey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
