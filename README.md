@@ -1,3 +1,4 @@
+<img align="right" src="https://avatars3.githubusercontent.com/u/1134322?s=200&v=4" />
 Most of the things I make, I make under the auspices of [Cat's Eye Technologies](https://catseye.tc/),
 so if you're looking for things I've made, you probably want to look at
 **[@catseye](https://github.com/orgs/catseye/)** instead.
@@ -11,7 +12,7 @@ Interests: **programming languages** ([esolangs](http://esolangs.org/), effect s
 **logic** (proof systems, theorem proving, ...),
 **algebraic properties** of all of the above
 
-Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution (10 year anniversary!) and fixing its Turing-completeness proof.  
+Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.  
 Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).  
 
 <!--
