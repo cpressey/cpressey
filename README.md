@@ -6,12 +6,12 @@ so if you're looking for things I've made, you probably want to look at
 
 - - - -
 
-Interests: **programming languages** ([esolangs](http://esolangs.org/), formal semantics, static analysis, ...),
-**computation** (computability/complexity theory, automata/formal languages, retrocomputing...),
-**aesthetics** (composition, art history, [generative art](https://github.com/topics/gewgaw), [NaNoGenMo](https://github.com/catseye/NaNoGenMo-Entries-2019/)...),
-**video games** ([as reactive systems](https://github.com/catseye/Nested-Modal-Transducers), as techno-aesthetic objects...),
-**logic** (proof systems, theorem proving, situation calculus...),
-**algebraic properties** of all of the above
+Interests:
+*   **programming languages** ([esolangs](http://esolangs.org/), formal semantics, static analysis, ...),
+*   **computation** (computability/complexity theory, automata/formal languages...),
+*   **aesthetics** (techno-aesthetics, curation/retrocomputing, [generative art](https://github.com/topics/gewgaw), [NaNoGenMo](https://github.com/catseye/NaNoGenMo-Entries-2019/)...),
+*   **video games** ([as reactive systems](https://github.com/catseye/Nested-Modal-Transducers), as techno-aesthetic objects...),
+*   **logic** (proof systems, logical calculi, theorem proving...)
 
 Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.  
 Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).  
