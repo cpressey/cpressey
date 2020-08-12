@@ -6,15 +6,24 @@ so if you're looking for things I've made, you probably want to look at
 
 - - - -
 
-Interests:
+<details>
+  <summary>My Interests</summary>
+  
 *   **programming languages** ([esolangs](http://esolangs.org/), formal semantics, static analysis, ...),
 *   **computation** (computability/complexity theory, automata/formal languages...),
 *   **aesthetics** (techno-aesthetics, curation/retrocomputing, [generative art](https://github.com/topics/gewgaw), [NaNoGenMo](https://github.com/catseye/NaNoGenMo-Entries-2019/)...),
 *   **video games** ([as reactive systems](https://github.com/catseye/Nested-Modal-Transducers), as techno-aesthetic objects...),
 *   **logic** (proof systems, logical calculi, theorem proving...)
+</details>
 
-Currently working on: modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.  
-Currently learning: [Coq](https://softwarefoundations.cis.upenn.edu/).  
+<details>
+  <summary>Currently I'm</summary>
+  
+*   modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof
+*   getting another minor version of [Robin](https://github.com/catseye/Robin) released
+*   trying to learn [Coq](https://softwarefoundations.cis.upenn.edu/)
+</details>
+
 
 <!--
 **cpressey/cpressey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
