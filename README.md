@@ -7,7 +7,8 @@ so if you're looking for things I've made, you probably want to look at
 - - - -
 
 <details>
-  <summary>My Interests</summary>
+  <summary>My interests include...</summary>
+  
   
 *   **programming languages** ([esolangs](http://esolangs.org/), formal semantics, static analysis, ...),
 *   **computation** (computability/complexity theory, automata/formal languages...),
@@ -17,11 +18,38 @@ so if you're looking for things I've made, you probably want to look at
 </details>
 
 <details>
-  <summary>Currently I'm</summary>
+  <summary>Currently I'm...</summary>
+  
   
 *   modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof
 *   getting another minor version of [Robin](https://github.com/catseye/Robin) released
 *   trying to learn [Coq](https://softwarefoundations.cis.upenn.edu/)
+</details>
+
+<details>
+  <summary>The most important thing you should know about software engineering is...</summary>
+  
+  
+**You need to have a specification.**
+
+There is a certain school of thought out there that the code itself is definitive — that you need nothing other than the code.
+
+But the code itself can only tell you **what it actually does**, not **what it is supposed to do**.
+
+Given some uncommented code, **you can only make educated guesses about what it's supposed to do.**
+
+If you treat code itself as definitive, then **by definition, it has no bugs** —
+because to say that it has a bug is to say that it's wrong, and on what basis can you say that it's wrong,
+if it's definitive?
+
+Clearly, code **can** have bugs — we all know this.  Therefore code cannot act as its own specification.
+Therefore **you need to have a specification**, of some sort.
+
+Now, there are many ways to make a specification.
+
+Automated tests are not a perfect way to make a specification, but 
+**they are much better than not having any specification at all**,
+and in most development teams they will given you the most "bang for your buck".
 </details>
 
 
