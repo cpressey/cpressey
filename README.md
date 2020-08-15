@@ -1,6 +1,6 @@
 <img align="right" src="https://avatars3.githubusercontent.com/u/1134322?s=200&v=4" />
 
-Most of the things I make, I make under the auspices of [Cat's Eye Technologies](https://catseye.tc/),
+Hi there, I'm Chris Pressey.  Most of the things I make, I make under the auspices of [Cat's Eye Technologies](https://catseye.tc/),
 so if you're looking for things I've made, you probably want to look at
 **[@catseye](https://github.com/orgs/catseye/)** instead.
 
@@ -17,11 +17,16 @@ so if you're looking for things I've made, you probably want to look at
 </details>
 
 <details>
-  <summary>Currently I'm...</summary>
+  <summary>Currently I'm working on...</summary>
   
 *   modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof
 *   getting another minor version of [Robin](https://github.com/catseye/Robin) released
-*   trying to learn [Coq](https://softwarefoundations.cis.upenn.edu/)
+</details>
+
+<details>
+  <summary>Currently I'm trying to learn...</summary>
+  
+*   [Coq](https://softwarefoundations.cis.upenn.edu/).
 </details>
 
 <details>
