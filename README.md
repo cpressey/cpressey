@@ -52,6 +52,13 @@ Now, there are many ways to make a specification.  Automated tests aren't a perf
 and in most development teams they will give the most "bang for your buck".
 </details>
 
+<details>
+  <summary>The most important thing you should know about troubleshooting is...</summary>
+  
+**Only turn one knob at a time.**
+
+</details>
+
 
 <!--
 **cpressey/cpressey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
