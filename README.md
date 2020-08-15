@@ -7,6 +7,18 @@ so if you're looking for things I've made, you probably want to look at
 - - - -
 
 <details>
+  <summary>My story is...</summary>
+
+In 1993 I designed [Befunge](https://github.com/catseye/Befunge-93/) and released it (on my BBS, running on an Amiga 500).
+
+In the late 90's I designed a few more unusual programming languages, and ran a web page and a mailing list about "esoteric topics in programming languages", from which  [esolang](https://esolangs.org/) got its name.
+
+In the 00's I went back to university and completed my BSc in computer science.  And I designed a few more unusual programming languages.
+
+In the 10's I undertook some independent study in art, in part to try to answer the question: are esolangs art?  And I designed a few more unusual programming languages.
+</details>
+
+<details>
   <summary>My interests include...</summary>
   
 *   **programming languages** ([esolangs](http://esolangs.org/), formal semantics, static analysis, ...),
