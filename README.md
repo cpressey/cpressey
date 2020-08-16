@@ -69,7 +69,7 @@ and in most development teams they will give the most "bang for your buck".
 <details>
   <summary>The most important thing you should know about troubleshooting is...</summary>
   
-**Only turn one knob at a time.**
+**Turn only one knob at a time.**
 
 </details>
 
