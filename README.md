@@ -28,12 +28,15 @@ so if you're looking for things I've made, you probably want to look at
 <details>
   <summary>Currently I'm working on...</summary>
   
-*   modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.
+Modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.
+
+</details>
 
 <details>
   <summary>Currently I'm trying to learn...</summary>
   
-*   [Coq](https://softwarefoundations.cis.upenn.edu/).
+[Coq](https://softwarefoundations.cis.upenn.edu/).
+
 </details>
 
 <details>
