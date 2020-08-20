@@ -30,12 +30,25 @@ so if you're looking for things I've made, you probably want to look at
   
 Modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixing its Turing-completeness proof.
 
+It's not going terribly well; it's rather dragging on.  I have the conditional construction needed to make a
+Turing machine-to-Burro translator, it's the actual sitting down and writing the thing that's hard to feel
+like doing on any given day.
+
 </details>
 
 <details>
   <summary>Currently I'm trying to learn...</summary>
   
 [Coq](https://softwarefoundations.cis.upenn.edu/).
+
+It's not going terribly well.  I was planning to learn it during my daily commute, but then the pandemic
+happened and now I, uh, have no commute.
+
+Coq's kind of baroque, but it actually seems like one of the less baroque theorem provers, so I guess
+I'll settle for that.  Maybe if I'm brave I'll try Agda (it didn't work out too well last time though.)
+
+At any rate it's good to have the experience of using an interactive theorem prover at all -- it gives
+one some perspective on the differences and similarities between programming and proof-writing.
 
 </details>
 
