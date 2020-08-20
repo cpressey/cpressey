@@ -44,9 +44,6 @@ Modernizing the [Burro](https://github.com/catseye/Burro) distribution and fixin
   
 **You need to have a specification.**
 
-  <details>
-    <summary>And the reason I say that is...</summary>
-
 There's this idea floating around out there that the code itself is definitive — that you need nothing other than the code.
 
 But the code itself can only tell you **what it actually does**, not **what it is supposed to do**.
@@ -62,8 +59,8 @@ Therefore **you need to have a specification**, of some sort.
 
 Now, there are many ways to make a specification.  Automated tests aren't a perfect way to make a specification, but 
 **having automated tests is much better than not having any specification at all**,
-and in most development teams they will give the most "bang for your buck".
-  </details>
+and in most development teams they will give the most return for your investment.
+
 </details>
 
 <details>
