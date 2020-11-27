@@ -6,4 +6,21 @@ so if you're looking for things I've made, you probably want to look at
 
 - - - -
 
-<!-- test edit-->
+<details>
+  <summary>My interests</summary>
+
+#### Models of computation
+
+*   [esolangs](http://esolangs.org/)
+*   computability, complexity, automata, and formal languages
+*   programming language theory (not type theory though)
+*   relationships between computation and logic
+
+#### Aesthetics
+
+*   techno-aesthetics
+*   curation and/or retrocomputing
+*   [generative art](https://github.com/topics/gewgaw)
+*   [NaNoGenMo](https://github.com/NaNoGenMo/)
+
+</details>
