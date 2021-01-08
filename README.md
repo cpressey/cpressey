@@ -7,7 +7,7 @@ so if you're looking for things I've made, you probably want to look at
 - - - -
 
 <details>
-  <summary>My interests are...</summary>
+  <summary>My interests include...</summary>
 
 #### Models of computation
 
@@ -18,12 +18,22 @@ so if you're looking for things I've made, you probably want to look at
 
 #### Aesthetics
 
-*   techno-aesthetics
+*   techno-aesthetics (i.e. [🎥][the technical object as such](https://www.youtube.com/watch?v=eXDtG74hCL4))
 *   art history, curation, retrocomputing
 *   [generative art](https://github.com/topics/gewgaw)
 *   [NaNoGenMo](https://github.com/NaNoGenMo/)
 
 </details>
+
+<details>
+  <summary>My allergies include...</summary>
+
+*   xkcd
+*   Hacker News
+*   social media
+
+</details>
+
 
 <details>
   <summary>The best quotes about software development are...</summary>
@@ -33,8 +43,11 @@ so if you're looking for things I've made, you probably want to look at
 "First, we want to establish the idea that a computer language is not just a way of getting a computer to perform operations but rather that it is a novel formal medium for expressing ideas about methodology. Thus, programs must be written for people to read, and only incidentally for machines to execute."  
 ― Abelson and Sussman
 
-"A language that doesn't affect the way you think about programming, is not worth knowing."
+"A language that doesn't affect the way you think about programming, is not worth knowing."  
 ― Alan Perlis
+
+"The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language."  
+― Donald Knuth
 
 #### Quotes about Engineering
 
