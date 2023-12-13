@@ -2,73 +2,33 @@
 
 Hi there, I'm Chris Pressey.  Most of the things I make, I make under the auspices of [Cat's Eye Technologies](https://catseye.tc/),
 so if you're looking for things I've made, you probably want to look at
-**[@catseye](https://github.com/orgs/catseye/)** instead.
+**[catseye @ Codeberg](https://codeberg.org/catseye/)** instead.
 
 - - - -
 
-<details>
-  <summary>My interests include...</summary>
+#### Cirriculum vitae
 
-#### Models of computation
+*   1993: Invented [Befunge][], an influential esolang
+*   1995: Established [Cat's Eye Technologies][]
+*   1996: Coined the term "esoteric programming language", which eventually got shortened to "[esolang][]"
+*   1994-2019: Invented dozens of other esolangs, some of which have also been influential (e.g. [SMITH][], [Mascarpone][])
+*   2011: **Signed up for GitHub**
+*   2013: For the [first NaNoGenMo][], wrote [The Swallows][], an influential novel generator / generated novel
+*   2014-2023: Wrote a number of other novel generators, some of which have also been influential (e.g. [MARYSUE][])
+*   2022: Wrote [a thing about state machines][] that got 700+ stars on GitHub
+*   2023: Invented [a grammar formalism for CSLs that can both parse and generate efficiently][]
+*   2023: **Stopped using GitHub** and moved to **[Codeberg][]**, a [non-profit dev platform][] running [open-source software][]
 
-*   [esolangs](http://esolangs.org/)
-*   computability, complexity, automata, and formal languages
-*   programming languages (semantics, static analysis, design)
-*   relationships between computation and logic
-
-#### Aesthetics
-
-*   techno-aesthetics (i.e. [🎥][the technical object as such](https://www.youtube.com/watch?v=eXDtG74hCL4))
-*   art history, curation, retrocomputing
-*   [generative art](https://github.com/topics/gewgaw)
-*   [NaNoGenMo](https://github.com/NaNoGenMo/)
-
-</details>
-
-<details>
-  <summary>My allergies include...</summary>
-
-*   xkcd
-*   Hacker News
-*   social media
-
-</details>
-
-
-<details>
-  <summary>The best quotes about software development are...</summary>
-
-#### Quotes about Programming Language
-
-"First, we want to establish the idea that a computer language is not just a way of getting a computer to perform operations but rather that it is a novel formal medium for expressing ideas about methodology. Thus, programs must be written for people to read, and only incidentally for machines to execute."  
-― Abelson and Sussman
-
-"A language that doesn't affect the way you think about programming, is not worth knowing."  
-― Alan Perlis
-
-"The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language."  
-― Donald Knuth
-
-#### Quotes about Engineering
-
-"If you do not experiment first, your whole product will be an experiment."  
-― apocryphal (from the Erlang community)
-
-"The only thing worse than generalizing from a single example is generalizing from no examples at all."  
-― apocryphal (from the FreeBSD community)
-
-"Premature optimization is the root of all evil."  
-― Donald Knuth
-
-"We must not forget that the wheel is reinvented so often because it is a very good idea; I've learned to worry more about the soundness of ideas that were invented only once."  
-― David Parnas
-
-"Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis."  
-― Alan Perlis
-
-#### Quotes about Troubleshooting
-
-"Only turn one knob at a time."  
-― apocryphal
-
-</details>
+[Befunge]: https://esolangs.org/wiki/Befunge
+[esolang]: https://esolangs.org/
+[Cat's Eye Technologies]: https://catseye.tc/
+[SMITH]: https://esolangs.org/wiki/SMITH
+[Mascarpone]: https://esolangs.org/wiki/Mascarpone
+[first NaNoGenMo]: https://github.com/dariusk/NaNoGenMo/issues?q=is:open+is:issue+label:completed
+[The Swallows]: https://catseye.tc/node/The_Swallows
+[MARYSUE]: https://catseye.tc/node/MARYSUE
+[a thing about state machines]: https://github.com/cpressey/Facts-about-State-Machines
+[a grammar formalism for CSLs that can both parse and generate efficiently]: https://codeberg.org/catseye/Fountain
+[Codeberg]: https://codeberg.org/
+[non-profit dev platform]: https://docs.codeberg.org/getting-started/what-is-codeberg/
+[open-source software]: https://forgejo.org/
