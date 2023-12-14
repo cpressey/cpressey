@@ -23,6 +23,16 @@ so if you're looking for things I've made, you probably want to look at
 *   **2023: Stopped using GitHub**
 *   2023: Moved to [Codeberg][], a [non-profit dev platform][] running [open-source software][]
 
+- - - -
+
+_It's not that I've suddenly become a Free Software zealot. But I do think open source should be more than just something that enables a **"Community Tier (FREE!)"** business model._
+
+_When Microsoft acquired GitHub, I didn't leave immediately.  I wanted to give them a chance._
+
+_Well, they've had their chance.  They squandered it._
+
+_Enjoy your rat race, folks._
+
 [Befunge]: https://esolangs.org/wiki/Befunge
 [esolang]: https://esolangs.org/
 [Cat's Eye Technologies]: https://catseye.tc/
